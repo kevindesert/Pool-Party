@@ -188,11 +188,87 @@ div
 
 
 
+/*EVENT PAGE*/
 
-/*END INDEX PAGES*/
-
-
-
-
+.table
+{
+  display: inline-block;
+  width: 75%;
+  vertical-align: top;
+}
+table
+{
+  display: inline-block;
+  border-collapse: collapse;
+  margin-left: 8em;
+  margin-top: 5em;
+}
+th, td
+{
+  border: 2px solid #33CCFF;
+}
+.table article img
+{
+  margin-top: 2em;
+  margin-left: 1em;
+  border-style: solid;
+  border-color: black;
+}
 
 /*EVENT PAGES*/
+
+
+
+
+
+/*CONTACT PAGES*/
+
+.maps
+{
+  display: inline-block;
+  width: 78%;
+  margin: 0.5em 0 0.5em 0.5em;
+  height: 1000px;
+  vertical-align: top;
+  background-color: #66CCFF;
+}
+.maps h4
+{
+  text-align: center;
+  width: 80%;
+  margin-left: 6em;
+  margin-top: 2em;
+  border: 1px solid #364156;
+  color: white;
+}
+.maps iframe
+{
+  width: 80%;
+  margin-left: 6em;
+  margin-top: 3em;
+}
+.formulaire
+{
+  text-align: center;
+  margin-top: 2em;
+  width: 100%;
+}
+label
+{
+  float: left;
+  clear: left;
+  width: 200px;
+  text-align: right;
+  margin: 1em;
+}
+input
+{
+  float: left;
+  margin: 1em;
+}
+form
+{
+  margin: auto 12em auto 12em;
+}
+
+/*END CONTACT PAGES*/
