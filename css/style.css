@@ -1,0 +1,199 @@
+/*COMMON RULES*/
+*
+{
+  margin: 0;
+  font-family: Tahoma;
+}
+
+}
+body
+{
+  margin: 0;
+}
+img
+{
+  width: 100%;
+  height: 100%;
+}
+
+/*END OF THE COMMON RULES*/
+
+
+
+
+
+
+/*HEADER RULES*/
+header
+{
+  width: 100%;
+}
+header figure
+{
+  width: 70%;
+  margin-left: 12em;
+}
+header figure img
+{
+  border-radius: 50px;
+}
+
+
+/*END OF THE HEADER RULES*/
+
+
+
+
+
+
+/*NAV BAR RULES AND ALSO THE FOOTER RULES*/
+
+nav ul
+{
+  display: inline-block;
+  background-color: #FFFFFF;
+  width: 96.5%;
+  list-style-type: none;
+  border-style: solid;
+  border-color: #33CCFF;
+  border-radius: 10px;
+  height: 3em;
+}
+nav ul li
+{
+  display: inline-block;
+  margin: 0.2em;
+  width: 19.5%;
+  margin-left: 10em;
+}
+nav ul li a
+{
+  text-decoration: none;
+  text-align: center;
+  color: black;
+}
+
+/*END OF THE NAV BAR RULES AND THE FOOTER RULES*/
+
+
+
+
+
+
+/*ASIDE RULES*/
+
+.asideleft
+{
+  display: inline-block;
+  width: 20%;
+  height: 1000px;
+  margin: 0.5em 0 0.5em 0.5em;
+  color: white;
+  background-color: #33CCFF;
+}
+.asideleft h3
+{
+  text-align: center;
+  color: white;
+}
+.asideleft article
+{
+  width: 80%;
+  margin-top: 1em;
+  margin-left: 1.5em;
+}
+
+.asideleft article figure img
+{
+  border-color: #D66853;
+  border-radius: 10px;
+  width: 100%;
+}
+.asideleft p
+{
+  color: white;
+  text-align: center;
+}
+/*END OF THE ASIDE RULES*/
+
+
+
+
+
+
+/*INDEX PAGES*/
+
+div
+{ display: inline-block;
+  width: 78%;
+  height: 1000px;
+  vertical-align: top;
+  margin: 0.5em 0 0.5em 0.5em;
+  background-color: #66CCFF;
+}
+
+/* MAIN SECTION RULES*/
+
+.top
+{
+  width: 60%;
+  margin-top: 1em;
+  margin-left: 20%;
+}
+.top img
+{
+  width: 100%;
+  margin-top: 1em;
+}
+.top p
+{
+  color: white;
+  text-align: center;
+}
+
+/*END MAIN SECTION RULES*/
+
+
+
+
+
+
+/*VIDEO PRESENTATION*/
+
+.demo
+{
+  display: inline-block;
+  width: 78%;
+  margin: 0.5em 0 0.5em 0.5em;
+  vertical-align: top;
+}
+.demo h4
+{
+  text-align: center;
+  width: 80%;
+  margin-left: 11em;
+  margin-top: 2em;
+  border: 1px solid #33CCFF;
+  border-radius: 10px;
+  color: white;
+}
+.demo iframe
+{
+  width: 80%;
+  margin-left: 11em;
+  margin-top: 3em;
+}
+
+/*END OF THE VIDEO PRESENTATION*/
+
+
+
+
+
+/*END INDEX PAGES*/
+
+
+
+
+
+/*EVENT PAGES*/
