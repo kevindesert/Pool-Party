@@ -1,11 +1,11 @@
-# READ ME POOL PARTY#
+# READ ME BLUE JACKET #
 
 ## charte graphique ##
 
 ### couleur utilisées :
-#### - FFFFFF (header)
-#### - 33CCFF (aside and footer)
-###  - D66853
+#### - D66853 (header)
+#### - 212D40 (aside and footer)
+#### - 7D4E57 (NAV)
 
 #### font-family : Tahoma
 
