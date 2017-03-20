@@ -1,4 +1,4 @@
-# READ ME BLUE JACKET #
+# READ ME POOL PARTY #
 
 ## charte graphique ##
 
